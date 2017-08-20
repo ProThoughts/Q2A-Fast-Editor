@@ -1,5 +1,5 @@
 # Q2A Fast Editor [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Question2Answer Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/ "Question2Answer Themes & Plugins")
-Fast Editor is a fast(less than 5KB total transfer), dependency free, WYSIWYG editor, based on Pell Editor.
+Fast Editor is a super fast(less than 5KB total transfer) WYSIWYG Editor for Question2Answer. This Editor is based on [Pell Editor](https://github.com/jaredreich/pell) which is developed by [Jared Reich](https://github.com/jaredreich/).
 
 ## Installation
 
@@ -10,7 +10,7 @@ Fast Editor is a fast(less than 5KB total transfer), dependency free, WYSIWYG ed
 you can visit plugin options to enable use of CDN for loading static files. although this plugin will require less than 5KB(compared with CKEditor which uses over 150KB), you can still save server resources by using CDNs.
 ## Author
 
-This free plugin is created by [Towhid](http://TheRational.ist "Freelance Developer"), from [QA-Themes.com](http://QA-Themes.com "Q2A Themes and Plugins"). In QA-Themes, we create professional Question2Answer Themes and plugins and provide customization and development services. checkout our [free Question2Answer Themes](http://qa-themes.com/themes "Q2A Themes") and [Plugins](http://qa-themes.com/plugins "Free Q2A Plugins").
+This free plugin(Wrapper for Pell Editor) is created by [Towhid](http://TheRational.ist "Freelance Developer"), from [QA-Themes.com](http://QA-Themes.com "Q2A Themes and Plugins"). In QA-Themes, we create professional Question2Answer Themes and plugins and provide customization and development services. checkout our [free Question2Answer Themes](http://qa-themes.com/themes "Q2A Themes") and [Plugins](http://qa-themes.com/plugins "Free Q2A Plugins").
 
 ## Copyright
 
