@@ -1,0 +1,14 @@
+{
+    "name": "Fast Editor",
+    "uri": "https://github.com/q2a-projects/Q2A-Fast-Editor/",
+    "description": "Fast Editor is a simple WYSIWYG editor for Q2A wrapping Pell Editor",
+    "version": "1.0",
+    "date": "2017-08-20",
+    "author": "QA-Themes.com",
+    "author_uri": "http://QA-Themes.com",
+    "license": "MIT License",
+    "update_uri": "https://github.com/q2a-projects/Q2A-Fast-Editor/master/fast-editor/master/metadata.json",
+    "min_q2a": "1.5",
+    "min_php": "5.2.0",
+    "load_order": "after_db_init"
+}
